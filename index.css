@@ -1,4 +1,4 @@
-h1 {
+ h1 {
     font-family: 'Amatic SC', cursive;
 }
 h2 {
@@ -13,7 +13,15 @@ div {
 p {
     font-family: 'Handlee', cursive;
 }
+.about {
+    color: blue;
+}
+#paragraph1 {
+    color: green;
+}
+#love {
+    color: white;
+    text-align: center;
+    background-color: black;
+}
 
-font-family: 'Tangerine', cursive;
-font-family: 'Great Vibes', cursive;
-font-family: 'Satisfy', cursive
